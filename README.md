@@ -1,2 +1,2 @@
-# Threshold-SM2
-Threshold signature scheme based on SM2 and CL-encryption.
+# CL-Encryption
+Public-Key Cryptography Based on HSM Group.
